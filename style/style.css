@@ -22,7 +22,8 @@ h4{
 .logo-block,
 .social-block{
     display: inline-block;  
-    width: 466px;  
+    width: 466px; 
+    padding-top: 10px; 
 }
 .social-block{
     text-align: right;
@@ -66,11 +67,11 @@ header{
     width: 238;
     text-align: center;
     color: white;
-    background-color: #FAC960;
+    background-color: #A8863D;
 }
 .email-form-title,
 .email-form-sub-title{
-    color: #8A6D2F;
+    color: #A8863D;
 }
 .email-form-title{
     font-size: 44;
@@ -102,7 +103,6 @@ header{
     padding-top: 78px;
     padding-bottom: 78px;
     text-align: center;
-    margin-bottom: 10px;
 }
 footer{
     background-color: #F2F2F2;
